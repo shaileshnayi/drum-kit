@@ -10,7 +10,8 @@ for (var i = 0; i < numberOfDrumButtons; i++) {
         buttonAnimation(buttonInnerHTML);
 
     });
-} 
+}
+
 
 
     //Detecting Keybord pree
@@ -70,7 +71,6 @@ for (var i = 0; i < numberOfDrumButtons; i++) {
 
 
     };
-
 
 
 //key pressAnimation
